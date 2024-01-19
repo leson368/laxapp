@@ -1,0 +1,15 @@
+{
+  "name": "laxapp",
+  "version": "1.0.0",
+  "description": "vue菜单可配置化框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^2.6.14",
+    "vue-router": "^3"
+  }
+}
